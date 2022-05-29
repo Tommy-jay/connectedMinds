@@ -1,1 +1,1 @@
-# dapp
+# connected Minds
